@@ -1,0 +1,86 @@
+.navbar{
+    width: 100%;
+}
+.heading{
+    padding-top: 4rem;
+}
+.main-content{
+    font-weight: 600;
+    font-size: 37px;
+    padding-bottom: 1rem;
+}
+.title-decritpion{
+    font-size: 15px;
+}
+.order-now{
+    margin-top: 2em;
+}
+.center{
+    background-color: #f9bbb1;
+    box-sizing: border-box;
+    width: 31%;
+    height: 70px;
+    padding-top: 10px;
+    padding-left: 8px;
+    border-radius: 10px;
+    margin-left: 18rem;
+}
+.chef{
+    font-size: 14px;
+    font-style: italic;
+    padding-left: .3em;
+}
+.home-section{
+    padding-top: 1rem
+}
+.image-section{
+    padding-top: 5rem;
+    justify-content: flex-end !important;
+    
+}
+.shef-image {
+    width: 180px;
+    height: 210px;
+}
+.hom-image{
+    margin-left: 10rem;
+    padding-top: 3rem;
+}
+.hom-image{
+    width: 350px;
+}
+.text-wrapper{
+    padding-top: 6rem;
+}
+.image-section{
+    margin-top: 3rem;
+}
+.card{
+    border: none;
+}
+.card-four{
+    margin-top: 30px;
+}
+@media screen and (max-width:991px) {
+    .heading{
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+    }
+    .center{
+        display: none;
+    }
+    .shef-image{
+        padding-top: 2rem;
+        width: 200px;
+        height: 250px;
+    }
+    .hom-image{
+        margin-left: 9rem;
+        padding-top: 3rem;
+        width: 200px;
+        height: 250px;
+    }
+}
+
+

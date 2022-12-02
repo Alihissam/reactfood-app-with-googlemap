@@ -1,0 +1,56 @@
+.navbar-nav{
+    padding-top: 5px; 
+}
+.nav-link{
+    font-size: 15px;
+    margin: 0 8px;
+    list-style: none;
+    color: #000;
+    text-decoration: none;
+    
+}
+.nav-link:hover{
+    color: #ffc107;
+    border-bottom: 1px solid #000;
+}
+.navbar-brand{
+    border-bottom: 2px solid rgb(252, 249, 249);
+}
+.button-login{
+    width: 70px;
+    height: 35px;
+    border: none;
+    color: #000;
+    font-weight: normal;
+    background-color: #ffc107;
+    border-radius: 3px;
+}
+.search-icon{
+    color: #000;
+}
+.shopi{
+    font-size: 20px;
+    font-weight: bold;
+}
+.toggle-button{
+    color: #ffc107;
+}
+.shop{
+    margin: 1rem;
+    font-size: 20px;
+}
+.cart-icon{
+    font-size: 35px;
+    color: rgb(53, 53, 53);
+    padding-right: 1rem;
+}
+.button-login{
+    text-decoration: none;
+}
+@media screen and (max-width: 991px) {
+    .nav-item{
+        margin: .5rem;
+    }
+}
+
+

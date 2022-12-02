@@ -1,0 +1,59 @@
+.boxes{
+    width: 100%;
+    height: 350px;
+    background-color: rgb(48, 47, 47);
+    justify-content: center;
+    text-align: center;
+    display: flex !important;
+    padding-top: 8.4rem;
+}
+.middle{
+    width: 200px;
+    height: 70px;
+    background-color: #ffc107;
+    align-items: center;
+    color: #fff;
+}
+.title{
+    justify-content: center;
+    padding-top: 1.1rem;
+}
+.about-picks{
+    margin-top: 20px;
+    border-radius: 50px
+}
+.about-2picks{
+    margin-top: 20px;
+    border-radius: 50px;
+}
+.about-3{
+    margin-top: 80px;
+    height: 370px;
+    width: 800px;
+    border-radius: 50px;
+}
+.about-5{
+    width: 500px;
+    height: 350px;
+    border-radius: 100px;
+    margin-top: 40px;
+
+}
+.learn{
+    margin-top: 40px;
+}
+.para{
+    margin-top: 40px;
+}
+@media screen and (max-width: 766px) {
+    .about-2picks{
+        width: 500px;
+        height: 350px;
+    }
+    .para{
+        text-align: center;
+    }
+    .learn{
+        text-align: center;
+    }
+}

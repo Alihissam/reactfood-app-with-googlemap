@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/reactfood-app-with-googlemap/static/css/main.f1a8da09.css",
+    "main.js": "/reactfood-app-with-googlemap/static/js/main.0247bf51.js",
+    "static/media/ce.png": "/reactfood-app-with-googlemap/static/media/ce.1df1861cd77e59f524e9.png",
+    "static/media/hom.png": "/reactfood-app-with-googlemap/static/media/hom.e0008d98e2bffebbe1c2.png",
+    "static/media/ca.jpg": "/reactfood-app-with-googlemap/static/media/ca.3230d31ba366e33a61da.jpg",
+    "static/media/cc.png": "/reactfood-app-with-googlemap/static/media/cc.a4a58622290e374a5d89.png",
+    "static/media/card4.png": "/reactfood-app-with-googlemap/static/media/card4.adce6909494aa91b32bd.png",
+    "static/media/co.png": "/reactfood-app-with-googlemap/static/media/co.ec6cd89499fe6d0df09c.png",
+    "static/media/about2.jpg": "/reactfood-app-with-googlemap/static/media/about2.422bbb5197d7090a6668.jpg",
+    "static/media/about3.jpg": "/reactfood-app-with-googlemap/static/media/about3.38b49ff2c7f45df0e614.jpg",
+    "static/media/caca.png": "/reactfood-app-with-googlemap/static/media/caca.5410ee1006db0d5db350.png",
+    "static/media/top.png": "/reactfood-app-with-googlemap/static/media/top.07fa192db1bd5e8ed0f5.png",
+    "static/media/shef.png": "/reactfood-app-with-googlemap/static/media/shef.56738d64a63d4a1043fe.png",
+    "static/media/about.jpg": "/reactfood-app-with-googlemap/static/media/about.f87fabc2d6b0addbe4e5.jpg",
+    "static/media/logo.png": "/reactfood-app-with-googlemap/static/media/logo.2078e9ee43c0da10f077.png",
+    "static/media/card2.png": "/reactfood-app-with-googlemap/static/media/card2.f29b64c8d1b3eefd0c8e.png",
+    "static/media/about5.jpg": "/reactfood-app-with-googlemap/static/media/about5.cb8d89decfe0f296d14f.jpg",
+    "static/media/card.png": "/reactfood-app-with-googlemap/static/media/card.9f506ac89902229c6404.png",
+    "index.html": "/reactfood-app-with-googlemap/index.html",
+    "main.f1a8da09.css.map": "/reactfood-app-with-googlemap/static/css/main.f1a8da09.css.map",
+    "main.0247bf51.js.map": "/reactfood-app-with-googlemap/static/js/main.0247bf51.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1a8da09.css",
+    "static/js/main.0247bf51.js"
+  ]
+}
